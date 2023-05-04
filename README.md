@@ -1,1 +1,3 @@
-# desafio01
+### Desafio 01 - Biblioteca
+Precisamos fazer um sistema para a biblioteca local da cidade. A biblioteca tem livros de diversos gêneros literários, cada livro tem seu escritor e sua editora, tendo a biblioteca que gravar o contato da editora para conseguir mais livros, eles tem salvo o nome da editora, um telefone para contato e o endereço.
+Para conseguir alugar um livro na biblioteca é feito um cadastro do cliente, onde o cliente precisa passar o nome completo, CPF, telefone para contato e endereço. Cada cliente pode alugar no máximo 5 livros por vez, tendo também um prazo para a devolução do livro de no máximo 2 semanas.
